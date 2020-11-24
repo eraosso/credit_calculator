@@ -1,0 +1,14 @@
+type: code
+custom_name: Hello, world!
+files:
+- name: main.py
+  visible: true
+  text: name = input()
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7173#comment
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/7173#comment">JetBrains
+    Academy</a></html>
+  time: Sat, 21 Nov 2020 17:56:01 UTC
+record: -1
